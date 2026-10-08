@@ -1,2 +1,5 @@
 #Config
-#Wed Sep 30 08:54:29 BRT 2026
+#Wed Sep 30 11:30:09 BRT 2026
+cfg.location.y=0
+cfg.location.x=1199
+cfg.recentes=C\:\\Users\\46189103804\\Desktop\\Banco_De_Dados\\Modelo Entidade Relacionamento(MER)\\EXERCIO2_MERCADO.brM3;C\:\\Users\\46189103804\\Desktop\\Banco_De_Dados\\Modelo Entidade Relacionamento(MER)\\SUPERMERCADO.brM3;C\:\\Users\\46189103804\\Desktop\\Banco_De_Dados\\Modelo Entidade Relacionamento(MER)\\EXERCIO1_ARTISTA.brM3;C\:\\Users\\46189103804\\Desktop\\Banco_De_Dados\\Modelo Entidade Relacionamento(MER)\\APP_MUSICA.brM3;C\:\\Users\\46189103804\\Desktop\\Banco_De_Dados\\Diagrama Entidade Relacionamento(DER)\\DER_VIDEO.brM3;C\:\\Users\\46189103804\\Desktop\\Banco_De_Dados\\Diagrama Entidade Relacionamento(DER)\\DER_AUTOR.brM3;C\:\\Users\\46189103804\\Desktop\\Banco_De_Dados\\Diagrama Entidade Relacionamento(DER)\\DER_SUPER_MERCADO.brM3;C\:\\Users\\46189103804\\Desktop\\Banco_De_Dados\\Modelo Entidade Relacionamento(MER)\\MER_SUPER_MERCADO.brM3
